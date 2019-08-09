@@ -1,1 +1,2 @@
-git clone -b AVS69_CESCC_4 https://gitlab.com/AVS3_Software/hpm.giterdafdasfadsfdas这是分支
+﻿git clone -b AVS69_CESCC_4 https://gitlab.com/AVS3_Software/hpm.giterdafdasfadsfdas这是分
+这是修改后的bbb
