@@ -1,0 +1,1 @@
+git clone -b AVS69_CESCC_4 https://gitlab.com/AVS3_Software/hpm.git
